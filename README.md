@@ -27,13 +27,12 @@ https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-t
 https://ui.shadcn.com/
 
 About: shadcn/ui is a modern, headless, and customizable UI component library built for React + Tailwind CSS, especially popular in Next.js apps.
-```
-Go to Shadcn --> Docs --> Installation --> Next.js --> Under create project --> Select npm --> Copy command(npx shadcn@latest init
-) --> Paste in terminal --> In teminal after run command -> choose "Neutral" -> ? How would you like to proceed? --> Use --legacy-peer-deps.
+
+Shadcn --> Docs --> Installation --> Next.js --> Under create project --> Select npm --> Copy command(npx shadcn@latest init
+) --> Paste in terminal --> In teminal after run command -> choose "Neutral" -> How would you like to proceed? --> Use --legacy-peer-deps.
 - ✔ Installing dependencies.
- ✔ Created 1 file:
- lib\utils.js
-   ```
+  - ✔ Created 1 file:
+  - lib\utils.js
 
 ## Install some components from Shadcn ui
 - left side bar scroll and select "Button".
